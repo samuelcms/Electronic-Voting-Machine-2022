@@ -1,0 +1,94 @@
+          JUSTIÇA ELEITORAL           
+
+Tribunal Regional Eleitoral [Lab. Redes]
+
+               1º Turno               
+              26/10/2022              
+
+           Eleições Gerais            
+
+Município:                    Barbacena
+Seção:                             0000
+Urna:                              0000
+
+Eleitores Aptos:                      0
+Comparecimentos:                      0
+Faltas:                               0
+
+Data de Abertura:            00/00/0000
+Hora de Abertura:              00:00:00
+
+Data de Fechamento:          00/00/0000
+Hora de Fechamento:            00:00:00
+
+=======================================
+
+---------------PRESIDENTE--------------
+
+Votos Válidos:                        0
+Votos Brancos:                        0
+Votos Nulos:                          0
+
+ID Nome                           Votos
+
+91 Ayrton Senna                       0
+81 Fernanda Montenegro                0
+71 Renato Russo                       0
+61 Cora Coralina                      0
+51 Drauzio Varella                    0
+
+---------------GOVERNADOR--------------
+
+Votos Válidos:                        0
+Votos Brancos:                        0
+Votos Nulos:                          0
+
+ID Nome                           Votos
+
+91 Marta Silva                        0
+81 Ary Fontoura                       0
+71 Marisa Monte                       0
+61 Machado de Assis                   0
+51 Jaqueline Goes                     0
+
+----------------SENADOR----------------
+
+Votos Válidos:                        0
+Votos Brancos:                        0
+Votos Nulos:                          0
+
+ID  Nome                          Votos
+
+912 Edson Arantes                     0
+912 Juliana Paes                      0
+912 Nando Reis                        0
+912 Rachel de Queiroz                 0
+912 Leando Karnal                     0
+
+--------------DEP. FEDERAL-------------
+
+Votos Válidos:                        0
+Votos Brancos:                        0
+Votos Nulos:                          0
+
+ID   Nome                         Votos
+
+9101 Daiane dos Santos                0
+8101 Leandro Hassum                   0
+7101 Rita Lee                         0
+6101 Monteiro Lobato                  0
+5101 Zilda Arns                       0
+
+-------------DEP. ESTADUAL-------------
+
+Votos Válidos:                        0
+Votos Brancos:                        0
+Votos Nulos:                          0
+
+ID    Nome                        Votos
+
+91000 Oscar Schmidt                   0
+81000 Isis Valverde                   0
+71000 Almir Sater                     0
+61000 Clarice Lispector               0
+51000 Pasquale Neto                   0
