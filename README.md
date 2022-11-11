@@ -30,3 +30,9 @@ Documentação python-gnupg:
    
    - [Documentação técnica do software da urna eletrônica - Eleições 2022](https://www.tse.jus.br/eleicoes/eleicoes-2022/documentacao-tecnica-do-software-da-urna-eletronica)
    - [Usando o GPG para Autenticação e Criptografia](https://www.guiafoca.org/guiaonline/avancado/ch20s05.html)
+
+#### Desenvolvido por
+
+   - [João Lucas Terra Farias](https://github.com/ja1za1)
+   - [Ruan Pablo de Almeida](https://github.com/RuanAlmeidaTSI)
+   - [Samuel César de Macedo Siqueira](https://github.com/samuelcms)
